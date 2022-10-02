@@ -1,0 +1,22 @@
+{
+  "name": "weswon",
+  "publisher": "Nagy Botond",
+  "displayName": "Andromeda but Darker ",
+  "description": "The Andromeda theme, but sexier (darker)",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Andromeda but Darker",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Andromeda but Darker-color-theme.json"
+      }
+    ]
+  }
+}

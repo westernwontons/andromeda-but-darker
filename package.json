@@ -6,7 +6,7 @@
     "url": "https://github.com/westernwontons/andromeda-but-darker"
   },
   "description": "The Andromeda theme, but sexier (darker)",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "engines": {
     "vscode": "^1.71.0"
   },

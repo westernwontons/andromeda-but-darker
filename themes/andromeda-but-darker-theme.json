@@ -726,7 +726,49 @@
 		//"window.activeBorder": null,
 		//"window.inactiveBorder": null
 	},
+	"semanticHighlighting": true,
+	"semanticTokenColors": {
+		"parameter": {
+			"foreground": "#ffffff"
+		},
+		"enumMember": {
+			"foreground": "#ffe66d"
+		},
+		"*.mutable": {
+			"underline": true
+		},
+		"*.callable": "#ffe66d",
+		"struct": "#F39C13",
+		"enum": "#F39C13",
+		"unresolvedReference": "#d3d3d3d3",
+		"*.typeHint": "#ffe66d",
+		"selfParameter": "#F39C13"
+	},
 	"tokenColors": [
+		{
+			"scope": "keyword.operator.type.annotation",
+			"settings": {
+				"foreground": "#ff3000"
+			}
+		},
+		{
+			"scope": "support.type.primitive",
+			"settings": {
+				"foreground": "#d3d3d3d3"
+			}
+		},
+		{
+			"scope": "variable.language.this.ts",
+			"settings": {
+				"foreground": "#F39C13"
+			}
+		},
+		{
+			"scope": "entity.name.type.trait",
+			"settings": {
+				"foreground": "#EE5C43"
+			}
+		},
 		{
 			"scope": [
 				"comment",
@@ -932,6 +974,30 @@
 			"scope": "token.debug-token",
 			"settings": {
 				"foreground": "#B267E6"
+			}
+		},
+		{
+			"scope": "keyword.operator.type.annotation",
+			"settings": {
+				"foreground": "#FF3000"
+			}
+		},
+		{
+			"scope": "support.type.primitive",
+			"settings": {
+				"foreground": "#D3D3D3D3"
+			}
+		},
+		{
+			"scope": "variable.language.this.ts",
+			"settings": {
+				"foreground": "#F39C13"
+			}
+		},
+		{
+			"scope": "entity.name.type.trait",
+			"settings": {
+				"foreground": "#EE5C43"
 			}
 		}
 	]

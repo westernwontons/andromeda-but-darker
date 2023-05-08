@@ -1069,7 +1069,8 @@
 				"punctuation.separator.period.python",
 				"punctuation.separator.annotation.result.python",
 				"punctuation.accessor.ts",
-				"punctuation.accessor.optional.ts"
+				"punctuation.accessor.optional.ts",
+				"support.type.primitive.ts"
 			],
 			"settings": {
 				"foreground": "#EE5D43"

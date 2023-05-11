@@ -794,13 +794,14 @@
 		"enum": "#F39C13",
 		"unresolvedReference": "#d3d3d3d3",
 		"*.typeHint": "#ffe66d",
+		"module.typeHint": "#d5ced9",
+		"enum.typeHint": "#f39c13",
 		"selfParameter": "#F39C13",
 		"comment": "#5F616c",
 		"namespace": "#D5CED9",
 		"tomlTableKey": "#00E8C6",
 		"tomlArrayKey": "#00E8C6",
-		"builtinType": "#f39c13",
-		"module.typeHint": "#d5ced9"
+		"builtinType": "#f39c13"
 	},
 	"tokenColors": [
 		{

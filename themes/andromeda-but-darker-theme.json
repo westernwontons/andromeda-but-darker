@@ -799,7 +799,8 @@
 		"namespace": "#D5CED9",
 		"tomlTableKey": "#00E8C6",
 		"tomlArrayKey": "#00E8C6",
-		"builtinType": "#f39c13"
+		"builtinType": "#f39c13",
+		"module.typeHint": "#d5ced9"
 	},
 	"tokenColors": [
 		{

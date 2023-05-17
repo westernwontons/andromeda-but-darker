@@ -302,7 +302,8 @@
 				"meta.image",
 				"markup.italic",
 				"source.js support.type",
-				"variable.language.super.rust"
+				"variable.language.super.rust",
+				"keyword.operator.logical.python"
 			],
 			"settings": {
 				"foreground": "#C74DED"

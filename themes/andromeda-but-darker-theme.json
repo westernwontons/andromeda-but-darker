@@ -177,13 +177,11 @@
 			}
 		},
 		{
-			"scope": "support.type.primitive",
-			"settings": {
-				"foreground": "#D3D3D3D3"
-			}
-		},
-		{
-			"scope": "variable.language.this.ts",
+			"scope": [
+				"variable.language.this.ts",
+				"support.type.primitive",
+				"support.type.primitive.tsx"
+			],
 			"settings": {
 				"foreground": "#F39C13"
 			}
